@@ -34,6 +34,6 @@ To run the game locally:
 1. **Clone the repository**:
    in git bash
    git clone https://github.com/AttiyaaHassann/FlapposAmigos.git
-2. ** Find the .exe file**:
+2. **Find the .exe file**:
   open it and you will have the game open 
 
